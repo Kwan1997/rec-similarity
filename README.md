@@ -1,5 +1,6 @@
 # rec-similarity
 This repository contains various user similarity methods in recommender system contexts, including
+
 - **PCC**
 - **CPCC**
 - **Cosine**
@@ -9,4 +10,5 @@ This repository contains various user similarity methods in recommender system c
 - **NHSM**
 - **BCF**
 - **NHSMKL**
+
 Run those handlers.
