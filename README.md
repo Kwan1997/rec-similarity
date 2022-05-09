@@ -9,3 +9,4 @@ This repository contains various user similarity methods in recommender system c
 - **NHSM**
 - **BCF**
 - **NHSMKL**
+Run those handlers.
